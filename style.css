@@ -450,7 +450,15 @@ text-align: center;
   }
 
   .div4 p{
-    margin: 5%;
+    margin: 6%;
+    font-size: 11px;
+  }
+
+  .div4 i{
+    font-size: 15px;
+    color: yellow;
+    
+
   }
 
   .row{
@@ -997,6 +1005,18 @@ text-align: center;
     }
 
 
+    .div4 p{
+      margin: 6%;
+      font-size: 10px;
+    }
+  
+    .div4 i{
+      font-size: 14px;
+      color: yellow;
+      
+    }
+
+
     .div2{
       width: 140px;
       height: 44vh;
@@ -1017,9 +1037,13 @@ text-align: center;
     /* Row */
 
     .row{
-      top: 391%;
+      top: 462%;
       
      
+    }
+
+    .footer{
+      height: 113vh;
     }
 
 
@@ -1211,6 +1235,17 @@ text-align: center;
 
     }
 
+    .div4 p{
+      margin: 6%;
+      font-size: 9px;
+    }
+  
+    .div4 i{
+      font-size: 13px;
+      color: yellow;
+      
+    }
+
     .div3{
       width: 100px;
       height: 33vh;
@@ -1228,9 +1263,13 @@ text-align: center;
     /* Row */
 
     .row{
-      top: 399%;
+      top: 443%;
       
      
+    }
+
+    .footer{
+      height: 105vh;
     }
 
   } 
