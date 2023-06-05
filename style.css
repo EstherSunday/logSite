@@ -728,12 +728,14 @@ text-align: center;
 
 
     .two11{
-      width: 100%;
+      /* width: 100%; */
       /* height: 50vh; */
+      justify-content: center;
+      height: auto;
     }
 
     .ingg{
-      width: 140px;
+      width: 100px;
       /* height: 45vh; */
       /* object-fit: cover; */
       top: 11px;
