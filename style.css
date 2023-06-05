@@ -211,7 +211,7 @@ text-align: center;
   
   }
   
-  .two11{
+  /* .two11{
     background-color: blue;
     position: relative;
     height: 370px;
@@ -219,7 +219,7 @@ text-align: center;
     border-radius: 5%;
   
     
-  }
+  } */
   .testt{
     width: 50%;
     
@@ -231,13 +231,9 @@ text-align: center;
   
   
   .ingg{
-    width: 290px;
-    height: 310px;
-    position: absolute;
-    top: 8%;
-    object-fit: cover;
-    right:  19%;
-    border-radius: 5%;
+    width: 350px;
+    /* height: 310px; */
+    
   }
   
   .two-row button{
@@ -639,17 +635,25 @@ text-align: center;
     }
 
 
-    .two1{
+    /* .two1{
       width: 150px;
       height: 50vh;
      
+    } */
+
+    .ingg{
+      width: 200px;
+      /* height: 310px; */
+      
     }
+    
 
     .ing{
-      width: 140px;
+      /* width: 140px;
       height: 45vh;
       object-fit: cover;
-      top: 11px;
+      top: 11px; */
+
       
     }
 
