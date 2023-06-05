@@ -699,7 +699,7 @@ text-align: center;
       display: block;
       margin: 0%;
       margin-top: 6%;
-      margin-bottom: 28%;
+      margin-bottom: 35%;
     }
 
     .center{
@@ -707,14 +707,18 @@ text-align: center;
     }
 
     .testt{
-      margin-left: 27%;
+      margin-left: 22%;
       
       
     }
 
     .testt p{
       margin: 0%;
-      
+      text-align: center;
+    }
+
+    .test12{
+      justify-content: center;
     }
 
 
