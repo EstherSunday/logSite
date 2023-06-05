@@ -734,8 +734,8 @@ text-align: center;
 
     .ingg{
       width: 140px;
-      height: 45vh;
-      object-fit: cover;
+      /* height: 45vh; */
+      /* object-fit: cover; */
       top: 11px;
 
     }
