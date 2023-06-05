@@ -395,25 +395,11 @@ text-align: center;
     
   }
   
-  /* .div1 p{
-    justify-content: center;
-  } */
-  .div2{
-    background-color: blue;
-    position: relative;
-    height: 370px;
-    width: 300px;
-    border-radius: 5%;
-  }
   
   .div3{
     width: 290px;
-    position: absolute;
-    top: 8%;
-    object-fit: cover;
-    height: 310px;
-    right:  19%;
     border-radius: 5%;
+    width: 350px;
   }
 
   .div4{
@@ -691,6 +677,10 @@ text-align: center;
 
     }
 
+    .ingg{
+      width: 250px;
+    }
+
    
 
     .testt p{
@@ -727,9 +717,9 @@ text-align: center;
     }
 
     .imgg{
-      width: 200px;
+      width: 250px;
      margin-top: 6%;
-      margin-right: 10%
+     
       
     }
 
@@ -750,7 +740,7 @@ text-align: center;
     /* forth row */
 
     .forth-row{
-      margin-top: -22%;
+      margin-top: -30%;
      align-items: center;
       padding: 6%;
       /* display: block; */
@@ -786,29 +776,29 @@ text-align: center;
 
     .sixth-row{
       margin: 2%;
-
+  
     }
     
     .sixth-row h2{
-      font-size: 22px;
+      font-size: px;
+      text-align: center;
+      
     }
 
     .sixth-row p{
-      font-size: 13px;
-
+      text-align: center;
+      font-size: 15px;
     }
 
 
-    .div2{
+    /* .div2{
       width: 150px;
       height: 50vh;
-    }
+    } */
 
     .div3{
-      width: 140px;
+      width: 220px;
       height: 45vh;
-      object-fit: cover;
-      top: 11px;
     }
 
     .div4{
@@ -819,7 +809,7 @@ text-align: center;
     /* Row */
 
     .row{
-      top: 444%;
+      top: 500%;
      
     }
 
@@ -933,18 +923,20 @@ text-align: center;
 
     /* two-row*/
 
-    .two11{
+    /* .two11{
       width: 120px;
       height: 39vh;
-    }
+    } */
 
-    .ingg{
+    /* .ingg{
       width: 110px;
       height: 34vh;
       object-fit: cover;
       top: 9px;
-    }
+    } */
 
+
+  
     .testt h2{
       font-size: 20px;
 
