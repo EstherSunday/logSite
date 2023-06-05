@@ -696,10 +696,15 @@ text-align: center;
     .testt p{
       margin: 0%;
       text-align: center;
+      font-size: 17px;
     }
 
     .test12{
       justify-content: center;
+    }
+
+    .test12 button{
+      padding: 5%;
     }
 
 
@@ -708,12 +713,13 @@ text-align: center;
     /* Third-row */
 
     .third-row{
-      margin-top: 23%;
+      margin-top: -5%;
       display: block;
     }
    
     .test2 p{
      text-align: center;
+     font-size: 17px;
     }
 
     .test2 h2{
@@ -722,7 +728,7 @@ text-align: center;
 
     .imgg{
       width: 200px;
-      margin-top: 5%;
+     margin-top: 6%;
       margin-right: 10%
       
     }
@@ -733,15 +739,21 @@ text-align: center;
 
     .test3{
       justify-content: center;
+      
+    }
+
+    .test3  button{
+      padding: 5%;
     }
 
 
     /* forth row */
 
     .forth-row{
-      margin-top: -25%;
+      margin-top: -19%;
      align-items: center;
       padding: 6%;
+      /* display: block; */
     }
 
     .forth-row h2{
