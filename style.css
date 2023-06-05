@@ -80,7 +80,7 @@ right: 35%;
   align-items: center;
   color: white;
   background-color:  #0f0211;
-  height: 100vh;
+  height: 90vh;
 
 }
 
@@ -620,9 +620,10 @@ text-align: center;
 
   
 
-  @media (max-width:426px){
+  @media (max-width:425px){
     .two{
       margin-top: -16%;
+      display: block;
     }
 
   
@@ -641,6 +642,7 @@ text-align: center;
     .two1{
       width: 150px;
       height: 50vh;
+     
     }
 
     .ing{
@@ -648,6 +650,7 @@ text-align: center;
       height: 45vh;
       object-fit: cover;
       top: 11px;
+      
     }
 
     .bxs{
@@ -692,6 +695,28 @@ text-align: center;
       margin-top: 17%;
     }
 
+    .two-row{
+      display: block;
+      margin: 0%;
+      margin-top: 6%;
+      margin-bottom: 28%;
+    }
+
+    .center{
+      margin-left: 30%;
+    }
+
+    .testt{
+      margin-left: 27%;
+      
+      
+    }
+
+    .testt p{
+      margin: 0%;
+      
+    }
+
 
     .two11{
       width: 150px;
@@ -703,8 +728,11 @@ text-align: center;
       height: 45vh;
       object-fit: cover;
       top: 11px;
+
     }
 
+
+    /* Third-row */
 
     .third-row{
       margin-top: -17%;
@@ -1054,6 +1082,8 @@ text-align: center;
   @media (max-width: 321px){
     .two{
       margin-top: -39%;
+     
+      
     }
 
   
@@ -1081,7 +1111,7 @@ text-align: center;
     }
 
     .bxs{
-      top: 43%;
+      top: 20%;
       left: 20%;
     }
 
