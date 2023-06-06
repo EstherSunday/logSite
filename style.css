@@ -98,14 +98,10 @@ right: 35%;
 
 }
 
-.two1{
-  background-color: blue;
-  position: relative;
-  height: 390px;
-  width: 300px;
-  border-radius: 5%;
 
-  
+
+.two1 img{
+  width: 350px;
 }
 .test{
   width: 50%;
@@ -584,19 +580,25 @@ text-align: center;
 
   @media (max-width:425px){
     .two{
-      margin-top: -16%;
+      margin-top: 9%;
       display: block;
+      margin-left: 20%;
     }
 
   
+    .two1 img{
+      width: 200px;
+    }
+
     .test h1{
-      font-size: 20px;
+      font-size: px;
+     /* text-align: center; */
      
     }
 
     .test p{
-      font-size: 10px;
-    
+      font-size: 13px;
+    text-align: center;
       margin-top: 1%;
     }
 
@@ -798,12 +800,12 @@ text-align: center;
 
     .div3{
       width: 220px;
-      height: 45vh;
+      /* height: 45vh; */
     }
 
     .div4{
       width: 85%;
-      height: 20vh;
+      /* height: 20vh; */
     }
 
     /* Row */
