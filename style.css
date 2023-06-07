@@ -719,14 +719,6 @@ text-align: center;
 
     }
 
-    .test12{
-      position: absolute;
-      top: 281%;
-      margin-left: 20%;
-      
-    }
-
-   
 
 
     .test12{
@@ -734,7 +726,10 @@ text-align: center;
     }
 
     .test12 button{
-      padding: 5%;
+      padding: 3%;
+      position: absolute;
+      top: 280%;
+      left: 40%
     }
 
 
@@ -743,8 +738,9 @@ text-align: center;
     /* Third-row */
 
     .third-row{
-      margin-top: -5%;
+      margin-top: 40%;
       display: block;
+      /* background-color: aqua; */
     }
    
     .test2 p{
@@ -770,12 +766,6 @@ text-align: center;
       
     }
 
-    .test12 button{
-      position: absolute;
-      top: 500px;
-       padding: 0 20px 0 20px;
-    }
-
     .test2{
       margin-left: 23%
     }
@@ -786,8 +776,14 @@ text-align: center;
     }
 
     .test3  button{
-      padding: 5%;
+      padding: 3%;
+      position: absolute;
+      top: 380%;
+      left: 40%;
     }
+
+
+
 
 
     /* forth row */
@@ -811,6 +807,8 @@ text-align: center;
     .pic{
       width: 80%;
     }
+
+
     
 
     /* fifth row */
