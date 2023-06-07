@@ -691,24 +691,37 @@ text-align: center;
     }
     
     .center{
-      margin-left: 30%;
-      /* position: absolute; */
+      margin-left: 20%;
+      position: absolute;
+    
     }
     .testt h2{
       text-align: center;
-      /* position: absolute; */
+      position: absolute;
+      top: 245%;
+      margin-right: 22%;
+      
     }
 
     .testt p{
       margin: 0%;
       text-align: center;
-      font-size: 17px;
-      /* position: absolute; */
-
+      font-size: 13px;
+      position: absolute;
+      top: 251%;
+      margin-right: 20%;
     }
 
     .ingg{
       width: 250px;
+
+    }
+
+    .test12{
+      position: absolute;
+      top: 281%;
+      margin-left: 20%;
+      
     }
 
    
