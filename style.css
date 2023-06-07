@@ -762,7 +762,7 @@ text-align: center;
       width: 250px;
      /* margin-top: 6%; */
      position: absolute;
-      top: 260px;
+      top: 270px;
       
     }
 
@@ -778,7 +778,7 @@ text-align: center;
     .test3  button{
       padding: 3%;
       position: absolute;
-      top: 380%;
+      top: 390%;
       left: 40%;
     }
 
@@ -792,7 +792,7 @@ text-align: center;
       margin-top: -10%;
      align-items: center;
       padding: 6%;
-      height: 90vh;
+      /* height: 60vh; */
     }
 
     .forth-row h2{
