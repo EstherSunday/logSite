@@ -115,7 +115,7 @@ right: 35%;
 .bxs{
   margin: 0 10%;
   position: absolute;
-  top: 78%;
+  top: 64%;
   
 }
 
@@ -245,7 +245,7 @@ text-align: center;
     align-items: center;
     color: white;
     height: 100vh; 
-    margin: 4%;
+    margin: 3%;
   }
 
   .third-row h2{
@@ -580,7 +580,7 @@ text-align: center;
 
   @media (max-width:425px){
     .two{
-      margin-top: 9%;
+      margin-top: 11%;
       display: block;
       /* margin-left: 38%; */
     }
@@ -602,7 +602,7 @@ text-align: center;
     .test p{
       font-size: 13px;
     text-align: center;
-      margin-top: 1%;
+      margin-top: 2px;
      position: absolute;
 
       top: 31%;
@@ -611,7 +611,7 @@ text-align: center;
     .test1 button{
       position: absolute;
       top: 40%;
-      left: 34%;
+      left: 40%;
     }
 
     
@@ -622,23 +622,19 @@ text-align: center;
       
     }
 
-
-    .bxs{
-      top: 40%;
-      left: 47%;
-      float: inline-end;
-      background-color: blue;
+   .bxs{
+      display: none;
     }
 
     .line{
-      top: 106%;
+      top: 100%;
       left: 46%;
       
     }
 
     /* Class */
     .class{
-      margin-top: -4%;      
+      margin-top: -10%;      
       flex-wrap: wrap;
      
       
