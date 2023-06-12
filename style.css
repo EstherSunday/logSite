@@ -80,6 +80,9 @@ right: 35%;
 span{
   font-size: larger;
   font-weight: 400;
+  /* background-color: #fff; */
+  /* margin: 3%; */
+  
 }
 
 .two{
@@ -89,6 +92,7 @@ span{
   color: white;
   background-color:  #0f0211;
   height: 90vh;
+  margin: 1%;
 
 }
 
@@ -123,7 +127,7 @@ span{
 .bxs{
   margin: 0 10%;
   position: absolute;
-  top: 64%;
+  top: 75%;
   
 }
 
@@ -436,7 +440,7 @@ text-align: center;
   .row{
     display: flex;
     position: absolute;
-    top: 505%;
+    top: 562%;
     left: 50%;
     gap: 3px;
  
@@ -680,8 +684,8 @@ text-align: center;
     .two-row{
       display: block;
       margin: 0%;
-      margin-top: 6%;
-      margin-bottom: 35%;
+      margin-top:18%;
+      /* margin-bottom: 35%; */
       
     }
 
@@ -728,7 +732,7 @@ text-align: center;
     .test12 button{
       padding: 3%;
       position: absolute;
-      top: 280%;
+      top: 283%;
       left: 40%
     }
 
@@ -738,7 +742,7 @@ text-align: center;
     /* Third-row */
 
     .third-row{
-      margin-top: 40%;
+      margin-top: 90px;
       display: block;
       /* background-color: aqua; */
     }
@@ -789,10 +793,10 @@ text-align: center;
     /* forth row */
 
     .forth-row{
-      margin-top: -10%;
+      /* margin-top: -10%; */
      align-items: center;
       padding: 6%;
-      /* height: 60vh; */
+      height: 60vh;
     }
 
     .forth-row h2{
